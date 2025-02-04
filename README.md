@@ -2,7 +2,7 @@
 
 Pour exécuter le projet, suivez les étapes suivantes : 
 1. ### Importer les fichiers nécessaires sur myDocker:
-  * **Base de données ChromaDB :** disponible à cette adresse → [Base de donnée vectorisée](https://drive.google.com/drive/folders/1-v_M7ytIl5hwlpKsJT0vGihV94qpCZvi?usp=sharing)
+  * **Base de données ChromaDB :** Nom du dossier **DBV** disponible à cette adresse → [Base de donnée vectorisée](https://drive.google.com/drive/folders/1-v_M7ytIl5hwlpKsJT0vGihV94qpCZvi?usp=sharing).
   * Dossier ```Legal-Email-Styling-app_dev``` : contenant les différents fichiers nécessaires pour l'interface.
   * Fichier ```AgentRecherche.ipynb``` : permettant de déployer temporairement l'interface Streamlit sur un serveur *ngrok*.  
 
